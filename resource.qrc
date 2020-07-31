@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/saveLife.png</file>
+    </qresource>
+    <qresource prefix="/db">
+        <file>db/savelifedb.db</file>
+    </qresource>
+</RCC>
