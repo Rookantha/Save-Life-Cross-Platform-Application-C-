@@ -41,3 +41,67 @@
  
 </ul>  
  
+<h3>Supported Platforms </h3>
+
+<p>Currently, SAVE LIFE has been tested and verified to run on both Windows 10 and Fedora Linux distribution. Below are screenshots of Software application run on Windows OS and Fedora Linux distribution.<p>
+<h2>Description of the GUI design</h2>
+<p>Connect With Database<p>
+  
+<p><img src="screenshot/stepOne.png"  alt="screenshot"/><p>
+
+<p><img src="screenshot/stepTwo.png"  alt="screenshot"/><p>
+  
+<p><img src="screenshot/stepthree.png"  alt="screenshot"/><p>
+
+<p><img src="screenshot/stepfour.png"  alt="screenshot"/><p>
+      
+<p><img src="screenshot/stepFive.png"  alt="screenshot"/><p>
+
+<h3>Login GUI</h3>
+
+<p>When starting the program, you will be presented with Login UI (QMainWindow) and Following Widgets Login User interface built from the following widgets. <p>
+ <ul>
+ <li>Save Life Logo – QLabel</li>
+ <li>Qt Logo- QLabel</li>
+ <li>Group box-QGroupBox</li>
+ <li>Select Database Button – QPushButton – Select to (savelifedb) database</li>
+ <li>Login button- QPushButton -Login SAVE LIFE Application</li>
+ <li>Exit button- QPushButton - Exit SAVE LIFE Application</li>
+ <li>Message Box – QMessageBox- Information, Warning, a critical predefined message.</li>
+
+</ul>
+
+<p>Start Page<p>
+<p><img src="screenshot/stepFive.png"  alt="screenshot"/><p>
+  
+<h3>Healthcare Staff GUI</h3>
+
+<p>When login the program, you will be presented with Healthcare Staff UI (QDialog) with Following Widgets <p>
+<p>User interface built from the following widgets. <p>
+  <ul>
+<li>Group box- QGroupBox – Register to Patient.</li>
+<li>Group box- QGroupBox – Patient Details.</li>
+<li>Patient ID Line Edit – QLineEdit- Enter Patient Identify Number.</li>
+<li>Search Button - QPushButton – Retrieve Patient details from the database and display in Line Edit fields.</li>
+<li>Admit Button- QPushButton -Enter the Patient's identity number, Name, Age, Address, Ward Number, bed Number, Guardian Details, description or Nurse's Notes then Click to Add the patient’s records to the database.</li>
+<li>Update Button – QPushButton – Enter the Patient’s identity number into the Line Edit Patient identity number filed and Click to Update the selected patient’s records to the database.</li>
+<li>Clear Button – QPushButton- Click to Clear All Line Edit field and Text Edit filed. </li>
+<li>Discharge Button – QPushButton – Enter Patient identity number into the Line Edit Patient identity number filed then Click to Delete the selected patient’s records from the database. </li>
+<li>New Button- QPushButton - Click to Create New Document.</li>
+<li>Open Button- QPushButton – Click to Open Text Document file in PC.</li>
+<li>Save Button- QPushButton – Click to Save Document file to your PC.</li>
+<li>Save As Button- QPushButton - Click to make a copy of the file in a different folder or make a copy with a different name</li>
+<li>Text Edit – QTextEdit -This basic text-editing program enables users to create a document, save a document and upload a document to the database.
+<li>Scan Results Summary reports - Abnormal button -Critical button – Normal Button – QPushButton – Once you have clicked in the Scan Report label's forward Abnormal button you will display All patient's Abnormal Summary reports updated by the laboratory. If you have clicked the critical button you will display critical Scan Reading Summary Reports and if you have clicked the normal button you will display normal Scan Reading Summary Reports updated by the Laboratory.</li>
+<li>Investigation Results Summary Reports - Abnormal button -Critical button – Normal Button – QpushButton – Once you have clicked in the Investigation Results label's forward Abnormal button you will display All patient's Abnormal Investigation Results Summary reports updated by the laboratory. if you have clicked the critical button you will display critical Investigation Results Summary Reports and if you have clicked the normal button you will display normal Investigation Results Summary Reports updated by the Laboratory.
+<li>Message Box – QMessageBox- Information, Warning, a critical predefined message.</li>
+<li>Login button- QPushButton -Login SAVE LIFE Application</li>
+<li>Exit button- QPushButton - Exit SAVE LIFE Application</li>  
+      
+<p><img src="screenshot/umten.png"  alt="screenshot"/><p>
+
+<p>Start Page<p>
+<p><img src="screenshot/windowsLab.png"  alt="screenshot"/><p>
+  
+<p>Start Page<p>
+<p><img src="screenshot/x.png"  alt="screenshot"/><p>    
