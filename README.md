@@ -48,12 +48,16 @@
 <p>Connect With Database<p>
   
 <p><img src="screenshot/stepOne.png"  alt="screenshot"/><p>
+  
 
 <p><img src="screenshot/stepTwo.png"  alt="screenshot"/><p>
   
+  
 <p><img src="screenshot/stepthree.png"  alt="screenshot"/><p>
+  
 
 <p><img src="screenshot/stepfour.png"  alt="screenshot"/><p>
+  
       
 <p><img src="screenshot/stepFive.png"  alt="screenshot"/><p>
 
@@ -97,11 +101,78 @@
 <li>Message Box – QMessageBox- Information, Warning, a critical predefined message.</li>
 <li>Login button- QPushButton -Login SAVE LIFE Application</li>
 <li>Exit button- QPushButton - Exit SAVE LIFE Application</li>  
+    
       
 <p><img src="screenshot/umten.png"  alt="screenshot"/><p>
 
-<p>Start Page<p>
+<h3>Doctor or Medical Expertise GUI</h3>
+
+<p>When login the program, you will be presented with Healthcare Staff UI (QDialog) with Following Widgets <p>
+  
+<p>User interface built from following widgets <p>
+  <ul>
+<li>Patient ID Line Edit – QLineEdit- Enter Patient ID </li>
+<li>Group box- QGroupBox - Update Diagnostic Investigate.</li>
+<li>Group box- QGroupBox – Investigation Details.</li>
+<li>Search Button - QPushButton - Retrieve the Patient’s details from the database and displayed in Line Edit fields.</li>
+<li>New Button- QPushButton - Click to Create New Document.</li>
+<li>Open Button- QPushButton – Click to Open Text Document file in PC.</li>
+<li>Save Button- QPushButton – Click to Save Text Document file to your PC.</li>
+<li>Save As Button- QPushButton - Click to make a copy of the file in a different folder or make a copy with a different name</li>
+<li>Font Button- QPushButton- Click to Change the font size, Font Family of the Text Edit.</li>
+<li>Font Color Button- QPushButton- Click to Change the font color of selected text.</li>
+<li>Highlight Button- QPushButton- Click to Highlight of selected text.</li>
+<li>Redo Button- QPushButton - Click to redo button in order to redo the Changes you have made in Text Edit.</li>
+<li>Undo Button -QPushButton - Click to undo button in order to undo the changes you have made in Text Edit.</li>
+<li>Paste Button -QPushButton – Click to takes what you've copied and restores</li>
+<li>Copy Button -QPushButton - Click to Copy button in order to copy the text.</li>
+<li>Text Edit – QTextEdit -This basic text-editing program enables users to create a document, Open Document save a document and upload a document to the database.</li>
+<li>scan responses Combo box -QComboBox-Doctors or medical expertise may able to Request Scans from the immediate process or Normal process from the laboratory.</li>
+<li>Investigation Summary Combo Box – QComboBox -Doctors or medical expertise allow updating patients investigation summary reports as abnormal normal or critical  </li>
+<li>Clear Button – QPushButton- Click to Clear All Line Edit field and Text Edit filed. </li>
+<li>Update Button – QpushButton – Enter the Patient’s identity number into the Line Edit Patient identity number filed and Click to Update the selected patient’s records to the database.</li>
+<li>Scan Results Summary reports - Abnormal button -Critical button – Normal Button – QPushButton – Once you have clicked in the Scan Report label's forward Abnormal button you will display All patient's Abnormal Summary reports updated by the laboratory. If you have clicked the critical button you will display critical Scan Reading Summary Reports and if you have clicked the normal button you will display normal Scan Reading Summary Reports updated by the Laboratory.</li>
+<li>Investigation Results Summary Reports - Abnormal button -Critical button – Normal Button – QPushButton – Once you have clicked in the Investigation Results label's forward Abnormal button you will display All patient's Abnormal Investigation Results Summary reports updated by the laboratory. if you have clicked the critical button you will display critical Investigation Results Summary Reports and if you have clicked the normal button you will display normal Investigation Results Summary Reports updated by the Laboratory.
+<li>Message Box – QMessageBox- Information, Warning, a critical predefined message.</li>
+<li>Login button- QPushButton -Login SAVE LIFE Application</li>
+<li>Exit button- QPushButton - Exit SAVE LIFE Application</li>
+</ul>
+<p><img src="screenshot/x.png"  alt="screenshot"/><p> 
+  
+  
+<h3>Laboratory GUI</h3>
+
+<p>When login the program, you will be presented with Laboratory UI (QDialog) with Following Widgets<p> 
+<p>User interface built from following widgets <p>
+  <ul>
+<li>Group box- QGroupBox – Register to Patient.</li>
+<li>Group box- QGroupBox – View Scan.</li>
+<li>Group box- QGroupBox – Scan Response.</li>
+<li>Patient ID Line Edit – Enter Patient ID</li>
+<li>Search Button - QPushButton - Retrieve the Patient’s details from the database and displayed in Line Edit fields.</li>
+<li>New Button- QPushButton - Click to Create New Document.</li>
+<li>Open Button- QPushButton – Click to Open Text Document file in PC.</li>
+<li>Save Button- QPushButton – Click to Save Text Document file to your PC.</li>
+<li>Save As Button- QPushButton - Click to make a copy of the file in a different folder or make a copy with a different name</li>
+<li>Font Button- QPushButton- Click to Change the font size, Font Family of the Text Edit.</li>
+<li>Font Color Button- QPushButton- Click to Change the font color of selected text.</li>
+<li>Highlight Button- QPushButton- Click to Highlight of selected text.</li>
+<li>Redo Button- QPushButton - Click to redo button in order to redo the Changes you have made in Text Edit.</li>
+<li>Undo Button -QPushButton - Click to undo button in order to undo the changes you have made in Text Edit.</li>
+<li>Paste Button -QPushButton – Click to takes what you've copied and restores.</li>
+<li>Copy Button -QPushButton - Click to Copy button in order to copy the text.</li>
+<li>Text Edit – QTextEdit -This basic text-editing program enables users to create a document, Open Document save a document and upload a document to the database.</li>
+<li>Scan Summary Combo box -QComboBox- allows laboratories to update patients' investigation summary reports as abnormal normal or critical.</li>
+<li>Clear Button – QPushButton- Click to Clear All Line Edit field and Text Edit filed. </li>
+vUpdate Button – QPushButton – Enter the Patient’s identity number into the Line Edit Patient identity number filed and Click to Update the selected patient’s records to the database.</li>
+<li>Requested Scans - Immediately button - Normal Button – QPushButton - Click the buttons to display Immediately requested scans or normally requested scans by the doctors.</li>
+<li>Open Scan Button -QPushButton -Click to Open the scan images from your PC.</li>
+<li>Message Box – QMessageBox- Information, Warning, a critical predefined message.</li>
+<li>Login button- QPushButton -Login SAVE LIFE Application</li>
+<li>Exit button- QPushButton - Exit SAVE LIFE Application.</li>
+  </ul> 
+ 
+  
 <p><img src="screenshot/windowsLab.png"  alt="screenshot"/><p>
   
-<p>Start Page<p>
-<p><img src="screenshot/x.png"  alt="screenshot"/><p>    
+
