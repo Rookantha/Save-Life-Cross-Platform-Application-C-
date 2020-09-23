@@ -2,7 +2,7 @@
 <h2>Qt Creator IDE and Essential Qt modules, C++ programming language, SQL with OOP design patterns. </h2>
 
 <div class="text-purple">
-  This repository will only provide software documentation and user gilds. If you need full code for this project contact me. <a href="#" class="text-inherit"></a>
+  This repository will only provide software documentation and user gilds. <a href="#" class="text-inherit">If you need full code for this project contact me</a>
 </div>
 
 
