@@ -1,10 +1,8 @@
 # Save-Life-Cross-Platform-Application-C-plus- plus
 <h2>Qt Creator IDE and Essential Qt modules, C++ programming language, SQL with OOP design patterns. </h2>
 
-<div class="text-red">
-  This repository will only provide software documentation and user gilds.
-</div>
 
+<p><font color="red">This repository will only provide software documentation and user gilds. If you need full code for this project contact me. </font><p>
 
 <p>The principal and practice of medical professionals in the Medicine and healthcare industry, to confirm medical problems and diagnosis when considering patient sing and symptoms, patient medical history and vital signs kind of blood pressure, breathing, Pulse and temperature with investigation tests and procedures. Many types of equipment are available for the vital sign as Pulse oximeter (monitor the oxygen saturation patient’s blood) sphygmomanometer (blood pressure) ECG measurement system only for monitor purposes.  Usually, medical professionals must analyze diagnostic investigation reports as full blood, Diagnostic imaging reports several kinds of scan reports, etc....  Sri Lanka has faced a lack of efficiency issues because there is no proper link in medical laboratories and Doctors or medical expertise with analytics medical problems and diagnosis from diagnostic investigation reports. It will be affected by health experts to make their final investigation for patients who need emergency treatment as priority wise. To solve this issue should have smart detecting and data manipulating system to catch those areas via diagnostic investigation reports.<p>
 
