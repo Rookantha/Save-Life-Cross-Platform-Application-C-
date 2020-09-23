@@ -1,7 +1,7 @@
 # Save-Life-Cross-Platform-Application-C-plus- plus
 <h2>Qt Creator IDE and Essential Qt modules, C++ programming language, SQL with OOP design patterns. </h2>
 
-<div class="text-bg-red">
+<div class="text-red">
   This repository will only provide software documentation and user gilds.
 </div>
 
